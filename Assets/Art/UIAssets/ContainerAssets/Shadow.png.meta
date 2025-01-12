@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 1ae859741c0a3429fb82816029ed015e
+guid: f43a6a0d4a64a44a3b533f49c6072f36
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8930805594698530221
-    second: LoadingBackgroundImage_0
+      213: 4093480436322176185
+    second: Shadow_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: LoadingBackgroundImage_0
+      name: Shadow_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1332
-        height: 1332
+        width: 1920
+        height: 1920
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3524ce901a76f0480800000000000000
-      internalID: -8930805594698530221
+      spriteID: 9bc8ef5c4c6fec830800000000000000
+      internalID: 4093480436322176185
       vertices: []
       indices: 
       edges: []
