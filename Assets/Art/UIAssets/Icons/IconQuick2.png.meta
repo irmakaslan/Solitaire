@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: f3684a8ef439143a081f4683aa544510
+guid: 4e22bc5c932c247468b7555ca2a10765
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5820853792656931368
-    second: InfoButtonBG_0
+      213: 1077043243497001689
+    second: IconQuick2_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: InfoButtonBG_0
+      name: IconQuick2_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 54
-        height: 54
+        width: 320
+        height: 320
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8d5c237d05c283fa0800000000000000
-      internalID: -5820853792656931368
+      spriteID: 9d29f50af1d62fe00800000000000000
+      internalID: 1077043243497001689
       vertices: []
       indices: 
       edges: []
