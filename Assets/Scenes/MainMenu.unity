@@ -7048,7 +7048,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6305670708908928380, guid: fbec8e072710b4490b375038a8514a8e, type: 3}
       propertyPath: m_FillAmount
-      value: 0.81
+      value: 0.722
       objectReference: {fileID: 0}
     - target: {fileID: 6932751000595945967, guid: fbec8e072710b4490b375038a8514a8e, type: 3}
       propertyPath: m_Pivot.x
